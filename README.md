@@ -56,5 +56,29 @@ Internet Video Content</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(26).pdf" style="text-decoration:none;">Story Understanding in Video
 Advertisements</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(27).pdf" style="text-decoration:none;">ADVISE: Symbolism and External Knowledge for Decoding Advertisements</a></li>
-   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(28).pdf" style="text-decoration:none;">Qualitative Analysis of Video Data: Standards and Heuristics</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(29).pdf" style="text-decoration:none;">A brief introduction to video analysis </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(30).pdf" style="text-decoration:none;">Video Content Analysis - Retail</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(31).pdf" style="text-decoration:none;">A Survey on
+Content aware Video Analysis for Sports</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(32).pdf" style="text-decoration:none;">Video Analysis and Modeling Tool for Physics Education: A workshop for Redesigning Pedagogy</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(33).pdf" style="text-decoration:none;">Video Motion Analysis Techniques: A Comparative Study</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(34).pdf" style="text-decoration:none;">Video Recording as the Reflexive Preservation and Configuration of Phenomenal Features for Analysis</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(35).pdf" style="text-decoration:none;">Computerised Video Analysis of Football – Technical and Commercial Possibilities for Football Coaching</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(36).pdf" style="text-decoration:none;">Event-Based Analysis of Video</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(37).pdf" style="text-decoration:none;">Challenges on Large Scale Surveillance Video Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(38).pdf" style="text-decoration:none;">Enhancing Teacher Learning from Guided Video Analysis of Literacy Instruction: An Interdisciplinary and Collaborative Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(39).pdf" style="text-decoration:none;">Survey on Video Analysis of Human Walking Motion</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(40).pdf" style="text-decoration:none;">Automated Pedestrian Safety Analysis Using Video Data in the Context of Scramble Phase Intersections</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Video-Analysis-Papers/blob/master/vi(41).pdf" style="text-decoration:none;">Application for Video Analysis
+Based on Machine Learning and Computer Vision Algorithms</a></li>
+
  </ul>
